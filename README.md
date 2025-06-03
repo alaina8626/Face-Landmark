@@ -1,4 +1,5 @@
 **Real-Time Multi-Face Mesh Detection using MediaPipe and OpenCV**
+
 This project performs real-time facial landmark detection using MediaPipe Face Mesh and OpenCV. It supports detection of up to 5 faces simultaneously and renders 468 3D facial landmarks per face with detailed tesselation.
 
 
